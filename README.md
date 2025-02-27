@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Expertise in Power BI, Data Studio, TensorFlow, Python, SQL, and Excel,,<br>- Passionate about Data Science ,Deep Learning and Artificial Intelligence.<br>- I analyze data, building AI models, and create insightful visualizations to solve real-world problems.</p>
+<p align="left">- Expertise in Power BI, Data Studio, TensorFlow, Python, SQL, and Excel,,<br>- Passionate about Data Science ,Deep Learning and Artificial Intelligence.<br>- I analyze data, build AI models, and create insightful visualizations to solve real-world problems.</p>
 
 ###
 
