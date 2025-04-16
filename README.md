@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻 Expertise in Flask, TensorFlow, Python, SQL, and React JS.<br>🌱 Passionate about Data Science ,Deep Learning and Artificial Intelligence.<br>🚀 I analyze data, build AI models, and create insightful visualizations to solve real-world problems.<br> -🧠 Currently learning full-stack development and diving into projects that challenge me.</p>
+<p align="left">💻 Expertise in Flask, TensorFlow, Python, SQL, and React JS.<br>🌱 Passionate about Data Science ,Deep Learning and Artificial Intelligence.<br>🚀 I analyze data, build AI models, and create insightful visualizations to solve real-world problems.<br> 🧠 Currently learning full-stack development and diving into projects that challenge me.</p>
 
 ###
 
